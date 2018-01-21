@@ -1,0 +1,19 @@
+{
+    "name": "fellipegpbotelho/solid",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "authors": [
+        {
+            "name": "fellipegpbotelho",
+            "email": "fellipegpbotelho@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Solid\\Html\\": "src"
+        }
+    }
+}
